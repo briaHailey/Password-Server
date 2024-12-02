@@ -1,1 +1,2 @@
 # Password-Server
+This project involves creating a hash table data structure and a password server program to manage user accounts. The hash table is implemented using separate chaining with STL containers and supports operations such as insertion, removal, and searching, loading, and dumping data. The password server, built on the hash table, handles user account management, including user addition, password changes, and data encryption using the crypt() method, while ensuring security and data consistency through validation and proper handling of errors.
